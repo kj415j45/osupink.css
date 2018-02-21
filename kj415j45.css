@@ -3,7 +3,7 @@ body {
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
-@media {
+@media (max-width: 767px) {
     body {
         background-attachment: scroll;
         background-repeat: no-repeat;
