@@ -1,4 +1,15 @@
 body {
     background-size: 100%;
-    background-image: url('https://github.com/kj415j45/osupink.css/raw/master/806928ae9c01f9a166bb62af3d21bad8779e889d.jpg');
+    background-repeat:no-repeat;
+    background-attachment:fixed;
+}
+@media {
+    body {
+        background-image: url('https://github.com/kj415j45/osupink.css/raw/master/806928ae9c01f9a166bb62af3d21bad8779e889d-edited.jpg');
+    }
+}
+@media (min-width: 768px) {
+    body {
+        background-image: url('https://github.com/kj415j45/osupink.css/raw/master/806928ae9c01f9a166bb62af3d21bad8779e889d.jpg');
+    }
 }
