@@ -5,7 +5,7 @@ body {
 }
 @media {
     body {
-        background-position: scroll;
+        background-attachment: scroll;
         background: url('https://github.com/kj415j45/osupink.css/raw/master/806928ae9c01f9a166bb62af3d21bad8779e889d-edited.jpg');
     }
 }
