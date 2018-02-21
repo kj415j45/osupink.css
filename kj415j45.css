@@ -6,8 +6,7 @@ body {
 @media (max-width: 767px) {
     body {
         background-attachment: scroll;
-        background-repeat: no-repeat;
-        background: url('https://github.com/kj415j45/osupink.css/raw/master/806928ae9c01f9a166bb62af3d21bad8779e889d-edited.jpg');
+        background-image: url('https://github.com/kj415j45/osupink.css/raw/master/806928ae9c01f9a166bb62af3d21bad8779e889d-edited.jpg');
     }
 }
 @media (min-width: 768px) {
